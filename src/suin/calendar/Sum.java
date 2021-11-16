@@ -12,7 +12,9 @@ public class Sum {
 		int num2 = sc.nextInt();
 		
 		System.out.printf("The sum of %d and %d is %d",num1,num2,num1+num2);
-		
+	
+		sc.close();
 	}
+	
 
 }
